@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bryanshaver
-- 👀 I’m interested in Front-End Web Development and 2D Game Development
-- 🌱 I’m currently learning Web Development through The Odin Project
+- 👀 I’m currently working in QA test automation but I would like to work in fornt-end web development with Javascript
 
 
 <!---
