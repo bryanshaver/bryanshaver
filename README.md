@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @bryanshaver
-- 👀 I’m currently working in QA test automation but I would like to work in fornt-end web development with Javascript
+My name is Bryan Shaver and after completing my a programming bootcamp I got a job in QE and stopped programming outside of test automation lol. Now the itch is back and I hope to update this page more often.
 
 
 <!---
